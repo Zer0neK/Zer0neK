@@ -8,12 +8,12 @@
 ## 关于我
 - **剑客（Sword Guest）创始人**
 -  专注 **Luau 脚本编写 / Roblox 自动化**
-- ⚙️ 打造 **高性能、安全验证、视觉高级的 UI 框架**
-- 💬 让脚本不止能跑，更能“秀”
+-  打造 **高性能、安全验证、视觉高级的 UI 框架**
+-  让脚本不止能跑，更能“秀”
 
 ---
 
-## 🛠 技术栈
+##  技术栈
 <p align="center">
   <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white"/>
   <img src="https://img.shields.io/badge/Roblox_Studio-DD0021?style=for-the-badge&logo=roblox&logoColor=white"/>
@@ -24,19 +24,19 @@
 
 ---
 
-## 🧩 代表项目
-🗡️ **Roblox 剑客脚本**  
+##  代表项目
+ **Roblox 剑客脚本**  
 　高性能、模块化的 Roblox 脚本体系，拥有稳定的自动执行逻辑与强大的 UI 系统。  
 
-🎮 **自动化脚本合集**  
+ **自动化脚本合集**  
 　整合多款游戏的智能自动执行脚本，拥有堆叠逻辑、循环优化与防检测机制。  
 
-🧰 **脚本加载器（Script Loader）**  
+ **脚本加载器（Script Loader）**  
 　具备验证绑定、混淆加密、反篡改检测与安全加载的综合平台。
 
 ---
 
-## 📊 GitHub 数据
+##  GitHub 数据
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zer0neK&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0neK&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
@@ -44,7 +44,7 @@
 
 ---
 
-## 🌐 联系方式
+##  联系方式
 <p align="center">
   <a href="https://discord.com/users/973112072445505577">
     <img src="https://img.shields.io/badge/Discord-Zer0neK-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
@@ -56,7 +56,7 @@
 
 ---
 
-## 👁️ 访客统计
+##  访客统计
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zer0neK&color=00CFFF&style=for-the-badge&label=访客统计"/>
 </p>
@@ -64,6 +64,6 @@
 ---
 
 <h3 align="center">
-🐉 「真正的剑客，不止磨剑，也磨代码。」<br>
+ 「你已归于人海，而我还停在原地，望着旧时光发呆。」<br>
 —— 剑客创始人 Zer0neK ⚔️
 </h3>
