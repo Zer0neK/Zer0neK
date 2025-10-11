@@ -1,6 +1,5 @@
 <!-- 背景图 + 横幅 -->
 <div align="center">
-  <img src="https://github.com/Zer0neK/Zer0neK/blob/main/%E8%83%8C%E6%99%AF%E5%9B%BE.png" alt="background" width="100%" style="position:absolute; z-index:-1; opacity:0.2;"/>
   <img src="https://github.com/Zer0neK/Zer0neK/blob/main/%E6%A8%AA%E5%B9%85.png" alt="banner" width="100%"/>
 </div>
 
