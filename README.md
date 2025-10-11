@@ -5,15 +5,6 @@
 
 ---
 
-<!-- 动态打字标题 -->
-<h1 align="center">
-  <a href="https://github.com/Zer0neK">
-    <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=你好，我是+Zer0neK+⚔️;剑客团队+创始人;专注+Luau+脚本开发与+Roblox+自动化;让代码与剑一样锋利。"/>
-  </a>
-</h1>
-
----
-
 ## 🧠 关于我
 - 🗡️ **剑客（Ken-Ke）团队创始人**
 - 🧩 专注 **Luau 脚本编写 / Roblox 自动化**
