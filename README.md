@@ -68,6 +68,7 @@
 
 ---
 
+<img src="https://chuxia.ytong0312.workers.dev/" style="display:none" alt="visitor tracker">
 
 <h3 align="center">
  「你已归于人海，而我还停在原地，望着旧时光发呆。」<br>
